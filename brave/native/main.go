@@ -7,8 +7,8 @@ import (
 	"os"
 	"runtime"
 
-	chromiumengine "github.com/xallet/tab/chromium/engine"
-	"github.com/xallet/tab/chromium/engine/policy"
+	chromiumengine "xallet.app/tab/chromium/engine"
+	"xallet.app/tab/chromium/engine/policy"
 	share "github.com/webong/ext/res/web/host/contract"
 	kit "github.com/webong/ext/res/web/host/manage/guest"
 )

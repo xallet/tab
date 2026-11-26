@@ -1,7 +1,7 @@
 package main
 
 import (
-	chromium "github.com/xallet/tab/chromium/engine"
+	chromium "xallet.app/tab/chromium/engine"
 	"os"
 )
 

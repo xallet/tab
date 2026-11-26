@@ -1,8 +1,8 @@
-module github.com/xallet/tab/opera
+module xallet.app/tab/opera
 
 go 1.25.0
 
-require github.com/xallet/tab/chromium v0.0.0
+require xallet.app/tab/chromium v0.0.0
 
 require (
 	github.com/gorilla/websocket v1.5.3 // indirect

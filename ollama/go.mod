@@ -1,9 +1,9 @@
-module github.com/xallet/tab/ollama
+module xallet.app/tab/ollama
 
 go 1.25.0
 
 require (
-	github.com/xallet/tab/openai v0.0.0
+	xallet.app/tab/openai v0.0.0
 	github.com/webong/ext/src/ctn/inference v0.1.0
 )
 

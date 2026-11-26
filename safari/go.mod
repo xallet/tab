@@ -1,9 +1,9 @@
-module github.com/xallet/tab/safari
+module xallet.app/tab/safari
 
 go 1.25.0
 
 require (
-	github.com/xallet/tab/chromium v0.0.0
+	xallet.app/tab/chromium v0.0.0
 	github.com/webong/ext/pkg/ext-go/cgoengine v0.1.0
 	github.com/webong/ext/res/web/host v0.1.0
 )

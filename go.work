@@ -26,9 +26,9 @@ use (
 )
 
 // Modules in this repository are not tagged; resolve them from the tree.
-replace github.com/xallet/tab/chromium v0.0.0 => ./chromium
-replace github.com/xallet/tab/firefox v0.0.0 => ./firefox
-replace github.com/xallet/tab/openai v0.0.0 => ./openai
+replace xallet.app/tab/chromium v0.0.0 => ./chromium
+replace xallet.app/tab/firefox v0.0.0 => ./firefox
+replace xallet.app/tab/openai v0.0.0 => ./openai
 
 // ext publishes no tags for several modules these adapters need (pkg/ext-go/core,
 // pkg/ext-go/cengine, src/ctn/*, src/cto/sandbox), and its tagged modules require them.

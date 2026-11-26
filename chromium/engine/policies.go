@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/xallet/tab/chromium/engine/policy"
+	"xallet.app/tab/chromium/engine/policy"
 )
 
 // ManagedPreferenceFiles supplies the macOS policy locations for a

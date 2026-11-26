@@ -9,7 +9,7 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/xallet/tab/chromium/engine/webextension"
+	"xallet.app/tab/chromium/engine/webextension"
 	browsershare "github.com/webong/ext/res/web/host/contract"
 	kit "github.com/webong/ext/res/web/host/manage/guest"
 )

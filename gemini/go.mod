@@ -1,4 +1,4 @@
-module github.com/xallet/tab/gemini
+module xallet.app/tab/gemini
 
 go 1.25.0
 

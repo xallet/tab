@@ -1,4 +1,4 @@
-module github.com/xallet/tab/chromium
+module xallet.app/tab/chromium
 
 go 1.25.0
 

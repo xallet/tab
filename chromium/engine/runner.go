@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/xallet/tab/chromium/engine/webextension"
+	"xallet.app/tab/chromium/engine/webextension"
 	share "github.com/webong/ext/res/web/host/contract"
 	kit "github.com/webong/ext/res/web/host/manage/guest"
 )

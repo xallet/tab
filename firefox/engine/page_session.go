@@ -11,7 +11,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/xallet/tab/chromium/engine/sessionrpc"
+	"xallet.app/tab/chromium/engine/sessionrpc"
 	"github.com/webong/ext/res/web/host/artifact/userscript"
 	management "github.com/webong/ext/res/web/host/contract"
 )

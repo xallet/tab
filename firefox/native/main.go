@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	firefox "github.com/xallet/tab/firefox/engine"
+	firefox "xallet.app/tab/firefox/engine"
 	"github.com/webong/ext/res/web/host/manage/discovery"
 )
 

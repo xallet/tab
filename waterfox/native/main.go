@@ -1,7 +1,7 @@
 package main
 
 import (
-	firefox "github.com/xallet/tab/firefox/engine"
+	firefox "xallet.app/tab/firefox/engine"
 	"os"
 )
 

@@ -1,4 +1,4 @@
-module github.com/xallet/tab/anthropic
+module xallet.app/tab/anthropic
 
 go 1.25.0
 
