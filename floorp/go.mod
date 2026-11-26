@@ -1,12 +1,12 @@
-module github.com/webong/ext/adapters/floorp
+module github.com/xallet/tab/floorp
 
 go 1.25.0
 
-require github.com/webong/ext/adapters/firefox v0.3.3
+require github.com/xallet/tab/firefox v0.0.0
 
 require (
 	github.com/gorilla/websocket v1.5.3 // indirect
-	github.com/webong/ext/adapters/chromium v0.4.3 // indirect
+	github.com/xallet/tab/chromium v0.0.0 // indirect
 	github.com/webong/ext/pkg/ext-go/cgoengine v0.1.0 // indirect
 	github.com/webong/ext/pkg/ext-go/engine v0.1.0 // indirect
 	github.com/webong/ext/res/web/host v0.1.0 // indirect

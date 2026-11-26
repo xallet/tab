@@ -19,7 +19,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/webong/ext/adapters/openai/client"
+	"github.com/xallet/tab/openai/client"
 	ginference "github.com/webong/ext/src/ctn/inference"
 )
 

@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/webong/ext/adapters/chromium/engine/policy"
+	"github.com/xallet/tab/chromium/engine/policy"
 )
 
 // ManagedPreferenceFiles supplies the macOS policy locations for a

@@ -32,7 +32,7 @@ ext package trust onnxruntime
 
 For Windows, use `--os windows` and the Windows executable. Publish sealed
 archives through an Ext package source; see
-[registry releases](../../docs/source-management.md#publish-an-adapter-release).
+[registry releases](https://github.com/webong/ext/blob/main/docs/source-management.md#publish-an-adapter-release).
 
 Self-contained .NET executables extract native libraries before the guest
 starts. The host must provide a private writable extraction location through

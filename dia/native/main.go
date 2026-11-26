@@ -1,7 +1,7 @@
 package main
 
 import (
-	chromium "github.com/webong/ext/adapters/chromium/engine"
+	chromium "github.com/xallet/tab/chromium/engine"
 	"os"
 )
 

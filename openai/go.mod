@@ -1,4 +1,4 @@
-module github.com/webong/ext/adapters/openai
+module github.com/xallet/tab/openai
 
 go 1.25.0
 

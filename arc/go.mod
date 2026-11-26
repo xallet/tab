@@ -1,8 +1,8 @@
-module github.com/webong/ext/adapters/arc
+module github.com/xallet/tab/arc
 
 go 1.26.0
 
-require github.com/webong/ext/adapters/chromium v0.4.3
+require github.com/xallet/tab/chromium v0.0.0
 
 require (
 	github.com/gorilla/websocket v1.5.3 // indirect

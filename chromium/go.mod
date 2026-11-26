@@ -1,4 +1,4 @@
-module github.com/webong/ext/adapters/chromium
+module github.com/xallet/tab/chromium
 
 go 1.25.0
 

@@ -1,8 +1,8 @@
-module github.com/webong/ext/adapters/atlas
+module github.com/xallet/tab/atlas
 
 go 1.26.0
 
-require github.com/webong/ext/adapters/chromium v0.4.3
+require github.com/xallet/tab/chromium v0.0.0
 
 require (
 	github.com/gorilla/websocket v1.5.3 // indirect

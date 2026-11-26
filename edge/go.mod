@@ -1,9 +1,9 @@
-module github.com/webong/ext/adapters/edge
+module github.com/xallet/tab/edge
 
 go 1.25.0
 
 require (
-	github.com/webong/ext/adapters/chromium v0.4.3
+	github.com/xallet/tab/chromium v0.0.0
 	github.com/webong/ext/res/web/host v0.1.0
 )
 

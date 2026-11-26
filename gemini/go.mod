@@ -1,4 +1,4 @@
-module github.com/webong/ext/adapters/gemini
+module github.com/xallet/tab/gemini
 
 go 1.25.0
 

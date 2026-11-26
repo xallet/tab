@@ -1,4 +1,4 @@
-module github.com/webong/ext/adapters/anthropic
+module github.com/xallet/tab/anthropic
 
 go 1.25.0
 

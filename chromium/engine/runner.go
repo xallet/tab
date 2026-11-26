@@ -7,7 +7,7 @@ import (
 	"io"
 	"net/url"
 
-	"github.com/webong/ext/adapters/chromium/engine/webextension"
+	"github.com/xallet/tab/chromium/engine/webextension"
 	share "github.com/webong/ext/res/web/host/contract"
 	kit "github.com/webong/ext/res/web/host/manage/guest"
 )

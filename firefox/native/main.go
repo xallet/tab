@@ -4,7 +4,7 @@ import (
 	"io"
 	"os"
 
-	firefox "github.com/webong/ext/adapters/firefox/engine"
+	firefox "github.com/xallet/tab/firefox/engine"
 	"github.com/webong/ext/res/web/host/manage/discovery"
 )
 

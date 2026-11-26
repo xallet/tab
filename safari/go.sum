@@ -1,5 +1,3 @@
-github.com/webong/ext/adapters/chromium v0.4.3 h1:2tPFMZpXGYogbBqjHf9rglDmJXWOY1XnUIg7X9xhffY=
-github.com/webong/ext/adapters/chromium v0.4.3/go.mod h1:ipm5SG2DmgOtFVUiPIB4zOTdO3NZks4o6OWbLOxpTKk=
 github.com/webong/ext/pkg/ext-go/cgoengine v0.1.0 h1:4Oha3g2zD5F9/KJ2Wz8/6naNp7k8hTWtjvUVTEADfZE=
 github.com/webong/ext/pkg/ext-go/cgoengine v0.1.0/go.mod h1:SL3+/EFut0qHxm4MhVtLS4OGy+fLb29o5II/U/Ajsq0=
 github.com/webong/ext/pkg/ext-go/engine v0.1.0 h1:gB7N+C+GJYFOgQG7gFAMfAAn35E6otpBKUYyCxzW4JU=

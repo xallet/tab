@@ -8,7 +8,7 @@ import (
 	"net/url"
 	"os/exec"
 
-	"github.com/webong/ext/adapters/chromium/engine/webextension"
+	"github.com/xallet/tab/chromium/engine/webextension"
 	browsershare "github.com/webong/ext/res/web/host/contract"
 	"github.com/webong/ext/res/web/host/manage/discovery"
 	kit "github.com/webong/ext/res/web/host/manage/guest"
